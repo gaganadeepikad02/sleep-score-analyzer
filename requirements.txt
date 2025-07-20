@@ -3,6 +3,6 @@ streamlit-lottie
 mne
 numpy
 matplotlib
-tensorflow==2.12.0
+tensorflow==2.15.0
 joblib
 requests
