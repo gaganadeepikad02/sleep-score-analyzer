@@ -78,7 +78,7 @@ The app is designed for clinicians, researchers, and individuals interested in u
 
 ###  Option 1: Use the Live App  
 > _Hosted on Streamlit Cloud_  
-🔗 [Launch Live Demo](https://your-streamlit-app-link)
+🔗 [Launch Live Demo](https://sleep-score-analyzer.onrender.com)
 
 ### 🖥️ Option 2: Run Locally
 
