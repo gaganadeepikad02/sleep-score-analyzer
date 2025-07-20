@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+mne
+numpy
+matplotlib
+tensorflow
+joblib
+requests
