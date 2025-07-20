@@ -6,7 +6,7 @@
 ##  Description
 Understanding sleep patterns is crucial for diagnosing and improving sleep health. This project provides an interactive web application that automatically analyzes overnight sleep patterns using EEG data from polysomnography (PSG) .edf files. Built with a hybrid CNN + Transformer deep learning model, the system classifies sleep stages, computes critical sleep metrics, and generates an overall sleep quality score.
 
-The app is designed for clinicians, researchers, and individuals interested in understanding sleep health. Using signal preprocessing, stage-wise classification, and custom metrics, it mimics clinical grade scoring — all accessible through an elegant and responsive Streamlit interface.
+The app is designed for clinicians, researchers, and individuals interested in understanding sleep health. Using signal preprocessing, stage-wise classification, and custom metrics, it mimics clinical grade scoring - all accessible through an elegant and responsive Streamlit interface.
 
 ---
 
@@ -96,3 +96,8 @@ The app is designed for clinicians, researchers, and individuals interested in u
 
 4. **Upload your .edf file to begin the analysis**
 
+--
+
+## Contact
+Gagana Deepika D
+gaganadeepikad2004@gmail.com
